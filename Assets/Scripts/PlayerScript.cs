@@ -70,6 +70,10 @@ public class PlayerScript : MonoBehaviour
         {
             anim.SetInteger("State",0);
         }
+    if (Input.GetKey("escape"))
+        {
+            Application.Quit();
+        }
     }
 
     void FixedUpdate()

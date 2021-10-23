@@ -99,7 +99,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 3878}
     - Class: 114
-      Script: {instanceID: 17338}
+      Script: {instanceID: 17336}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
